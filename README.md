@@ -1,1 +1,1 @@
-This is a repository for my Computer vision related projects.
+This is a repository for my Computer vision projects.
